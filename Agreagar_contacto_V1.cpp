@@ -18,7 +18,7 @@ info_contactos c;
 
 void llenar_archivo(){
 	ofstream archivo_contactos;
-	archivo_contactos.open("lista_contactos.txt",ios::out);
+	archivo_contactos.open("lista_contactos.txt",ios::app);
 	if (archivo_contactos.fail()){
 		cout<<"El archivo no pudo se pudo abrir";
 		return;	
@@ -28,6 +28,7 @@ void llenar_archivo(){
 }
 
 int main(){
+	for(int i=0;i<2;i++){//Este for es un for de prueba, quitar para la presentacion final
 	cout<<"Ingrese el nombre del contacto que desea agregar: ";
 	getline(cin,c.nombre_contacto);
 	if(c.nombre_contacto.empty()){
@@ -106,7 +107,7 @@ int main(){
 	
 		contactos.push_back(c);
 		llenar_archivo();
-		
+		}
 		
 	}
 	
