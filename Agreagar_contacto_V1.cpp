@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<fstream>
 #include<stdlib.h>
 using namespace std;
 struct info_contactos{
@@ -14,8 +15,19 @@ struct info_contactos{
 };
 vector<info_contactos> contactos;
 info_contactos c;
+
+void llenar_archivo(){
+	ofstream archivo_contactos;
+	archivo_contactos.open("lista_contactos.txt",ios::out);
+	if (archivo_contactos.fail()){
+		cout<<"El archivo no pudo se pudo abrir";
+		return;	
+	}
+	archivo_contactos<<c.nombre_contacto<<"|"<<c.apellido_contacto<<"|"<<c.telefono<<"|"<<c.correo<<"|"<<c.direccion<<"|"<<c.apodo<<"|"<<c.cumpleaños<<endl;	
+	archivo_contactos.close();
+}
+
 int main(){
-	for(int i=0;i<7;i++){
 	cout<<"Ingrese el nombre del contacto que desea agregar: ";
 	getline(cin,c.nombre_contacto);
 	if(c.nombre_contacto.empty()){
@@ -91,12 +103,15 @@ int main(){
 				}
 				}
 			}		
-			
-		
+	
+		contactos.push_back(c);
+		llenar_archivo();
 		
 		
 	}
-}
+	
+
+
 
 
 	
