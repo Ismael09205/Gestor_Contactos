@@ -45,7 +45,7 @@ int main(){
 			if(c.telefono.empty()){
 				while(true){
 					cout<<"El campo no puede estar vacio"<<endl;
-					cout<<"Ingrese el apellido del contacto que desea agregar: ";
+					cout<<"Ingrese el telefono del contacto que desea agregar: ";
 					getline(cin,c.telefono);
 				if (!c.telefono.empty()){
 					break;
@@ -57,7 +57,7 @@ int main(){
 			if(c.correo.empty()){
 				while(true){
 					cout<<"El campo no puede estar vacio"<<endl;
-					cout<<"Ingrese el apellido del contacto que desea agregar: ";
+					cout<<"Ingrese el correo del contacto que desea agregar: ";
 					getline(cin,c.correo);
 				if (!c.correo.empty()){
 					break;
@@ -69,7 +69,7 @@ int main(){
 			if(c.direccion.empty()){
 				while(true){
 					cout<<"El campo no puede estar vacio"<<endl;
-					cout<<"Ingrese el apellido del contacto que desea agregar: ";
+					cout<<"Ingrese la direccion del contacto que desea agregar: ";
 					getline(cin,c.direccion);
 				if (!c.direccion.empty()){
 					break;
@@ -84,7 +84,7 @@ int main(){
 			if(c.cumpleaños.empty()){
 				while(true){
 					cout<<"El campo no puede estar vacio"<<endl;
-					cout<<"Ingrese el apellido del contacto que desea agregar: ";
+					cout<<"Ingrese el cumpleaños del contacto que desea agregar: ";
 					getline(cin,c.cumpleaños);
 				if (!c.cumpleaños.empty()){
 					break;
