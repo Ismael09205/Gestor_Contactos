@@ -6,6 +6,9 @@
 using namespace std;
 
 int main(){
+	
+	setlocale(LC_ALL, "");
+	
 	string buscarContacto;
 	cout<<"Ingrese el nombre y apellido del contacto a modificar o actualizar: ";
 	getline(cin, buscarContacto);
@@ -28,7 +31,7 @@ int main(){
 			getline(ss, campos[i], '|' );   //Observacion
 		}
 		
-		if (campos[0]==buscarContacto){
+		if (campos[0] + " "+campos[1]==buscarContacto){
 			cout<<"\nModificando contacto...\n";
 			cout<<"Ingrese los datos para actualizar:\n";
 			cout<<"Nombre: ";
@@ -55,7 +58,7 @@ int main(){
 		
 		}
 		//contacto modificado o no
-		actual<<campos[0]<<"|"<<campos[1]<<'|'<<campos[3]<<"|"<<campos[4]<<"|"<<campos[5]<<"|"<<campos[6]<<"\n";
+		actual<<campos[0]<<"|"<<campos[1]<<"|"<<campos[2]<<'|'<<campos[3]<<"|"<<campos[4]<<"|"<<campos[5]<<"|"<<campos[6]<<"\n";
 	}
 	
 	archivo.close();
@@ -65,7 +68,7 @@ int main(){
 	rename("lista_actualizada.txt", "lista_contactos.txt");
 	
 	if (encontrado)
-	cout<<"Modificación del contacto realizada corecctamente.";
+	cout<<"Modificación del contacto realizada corectamente.";
 	else
 	cout<<"Nombres del contacto no encontrado\n";
 	
