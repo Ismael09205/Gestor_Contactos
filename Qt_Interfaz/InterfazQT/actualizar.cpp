@@ -17,7 +17,7 @@ Actualizar::~Actualizar()
 void Actualizar::on_btnActualizar_D_clicked()
 {
     menu_Actualizar *datos_actualizar =new menu_Actualizar(this);
-    datos_actualizar->show();
+    datos_actualizar->exec();
 
 }
 

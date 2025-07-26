@@ -16,8 +16,6 @@ public:
     ~Actualizar();
 
 private slots:
-    void on_btnActualizar_clicked();
-
     void on_btnActualizar_D_clicked();
 
 private:

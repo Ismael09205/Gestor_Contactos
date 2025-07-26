@@ -26,6 +26,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         actualizar.h actualizar.cpp actualizar.ui
         menu_actualizar.h menu_actualizar.cpp menu_actualizar.ui
         eliminar.h eliminar.cpp eliminar.ui
+        mostrar_contactos.h mostrar_contactos.cpp mostrar_contactos.ui
+
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET InterfazQT APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
