@@ -1,0 +1,13 @@
+# ninja log v6
+12	1658	7751992430451487	InterfazQT_autogen/timestamp	5d2e2e3cc18a6f4b
+12	1658	7751992430451487	InterfazQT_autogen/mocs_compilation.cpp	5d2e2e3cc18a6f4b
+12	1658	7751992430451487	E:/Backup/EPN/Segundo semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	5d2e2e3cc18a6f4b
+12	1658	7751992430451487	E:/Backup/EPN/Segundo semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	5d2e2e3cc18a6f4b
+1665	8561	7751992431578382	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	e62abbb5ff72ad88
+1669	8599	7751992431608340	CMakeFiles/InterfazQT.dir/main.cpp.obj	4a1d520efeda2cb5
+1679	8633	7751992431708292	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	34bec751df9a8c79
+1682	9130	7751992431738267	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	4fb413a9a4204f8e
+1675	9189	7751992431678301	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6e4ab0ac9be591ef
+1672	9528	7751992431638332	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	a569f655ed3e3aea
+48	3919	7751992592706175	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	e62abbb5ff72ad88
+3919	4384	7751992631410603	InterfazQT.exe	e8fa01c58d9cb7e1
