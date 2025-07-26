@@ -7,7 +7,7 @@ using namespace std;
 void eliminar_contacto() {
     string buscarContacto;
     cout << "Ingrese el nombre y apellido del contacto a eliminar: ";
-    cin.ignore(); // Limpia el buffer para evitar problemas con getline
+    cin.ignore(); 
     getline(cin, buscarContacto);
 
     ifstream archivo("lista_contactos.txt");
@@ -25,18 +25,18 @@ void eliminar_contacto() {
         stringstream ss(linea);
         string campos[7];
 
-        // separa los campos usando '|'
+        
         for (int i = 0; i < 7; i++) {
             getline(ss, campos[i], '|');
         }
 
-        // Compara "nombre apellido" con lo que escribió el usuario
+        
         if (campos[0] + " " + campos[1] == buscarContacto) {
             cout << "? Contacto eliminado: " << campos[0] << " " << campos[1] << endl;
             encontrado = true;
-            // ? NO escribimos esta línea en el archivo temporal ? así se "borra"
+            
         } else {
-            // Copiamos todo lo que NO se elimina
+            
             temporal << campos[0] << "|" << campos[1] << "|" << campos[2] << "|" 
                      << campos[3] << "|" << campos[4] << "|" << campos[5] << "|" << campos[6] << "\n";
         }
@@ -49,7 +49,7 @@ void eliminar_contacto() {
     rename("lista_temporal.txt", "lista_contactos.txt");
 
     if (!encontrado) {
-        cout << "?? No se encontró un contacto con ese nombre y apellido.\n";
+        cout << "?? No se encontrÃ³ un contacto con ese nombre y apellido.\n";
     }
 }
 
