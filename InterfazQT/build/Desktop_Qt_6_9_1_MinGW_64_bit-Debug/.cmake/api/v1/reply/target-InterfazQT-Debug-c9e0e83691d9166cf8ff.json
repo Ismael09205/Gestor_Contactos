@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 65,
+				"line" : 66,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 48,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
@@ -381,18 +381,19 @@
 				2,
 				6,
 				9,
-				12
+				12,
+				15
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "InterfazQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "InterfazQT_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "InterfazQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "InterfazQT::@6890427a1f51a3e7e1df",
@@ -507,7 +508,8 @@
 				2,
 				6,
 				9,
-				12
+				12,
+				15
 			]
 		},
 		{
@@ -519,9 +521,11 @@
 				8,
 				11,
 				14,
-				15,
-				16,
-				17
+				17,
+				18,
+				19,
+				20,
+				21
 			]
 		},
 		{
@@ -531,21 +535,22 @@
 				4,
 				7,
 				10,
-				13
+				13,
+				16
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				18
+				22
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				19
+				23
 			]
 		}
 	],
@@ -629,6 +634,22 @@
 			"sourceGroupIndex" : 2
 		},
 		{
+			"backtrace" : 4,
+			"path" : "mostrar_contactos.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "mostrar_contactos.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "mostrar_contactos.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/include/ui_mainwindow.h",
@@ -650,6 +671,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/include/ui_eliminar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/include/ui_mostrar_contactos.h",
 			"sourceGroupIndex" : 1
 		},
 		{

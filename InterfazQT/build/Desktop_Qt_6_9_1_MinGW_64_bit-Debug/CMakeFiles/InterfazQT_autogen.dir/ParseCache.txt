@@ -1125,8 +1125,6 @@ C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mainwindow.
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/eliminar.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mainwindow.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.h
-C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mainwindow.cpp
- uic:./ui_mainwindow.h
 C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h
@@ -1500,13 +1498,6 @@ C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actual
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.h
-C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/actualizar.cpp
- uic:ui_actualizar.h
-C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/eliminar.cpp
- uic:ui_eliminar.h
-C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/main.cpp
-C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.cpp
- uic:ui_menu_actualizar.h
 C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mostrar_contactos.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h
@@ -1880,5 +1871,14 @@ C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mostrar_con
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h
  mdp:C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mostrar_contactos.h
+C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/actualizar.cpp
+ uic:ui_actualizar.h
+C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/eliminar.cpp
+ uic:ui_eliminar.h
+C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/main.cpp
+C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mainwindow.cpp
+ uic:./ui_mainwindow.h
+C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.cpp
+ uic:ui_menu_actualizar.h
 C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/mostrar_contactos.cpp
  uic:ui_mostrar_contactos.h

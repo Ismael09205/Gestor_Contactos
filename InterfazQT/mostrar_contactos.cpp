@@ -14,7 +14,7 @@ mostrar_contactos::mostrar_contactos(QWidget *parent)
 
     QFile archivo("lista_contactos.txt");
     if(!archivo.open(QIODevice::ReadOnly | QIODevice::Text)){
-        QMessageBox::warning(this, "Error","No se pudo abrir el archivo");
+        QMessageBox::warning(this, "Error","El registro está vacío.");
         return;
     }
 
