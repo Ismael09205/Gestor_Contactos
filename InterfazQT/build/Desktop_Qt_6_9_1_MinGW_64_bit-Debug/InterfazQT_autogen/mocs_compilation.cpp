@@ -3,3 +3,4 @@
 #include "EWIEGA46WW/moc_eliminar.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
 #include "EWIEGA46WW/moc_menu_actualizar.cpp"
+#include "EWIEGA46WW/moc_mostrar_contactos.cpp"

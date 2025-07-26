@@ -31,6 +31,7 @@ public:
     QAction *actionLabelActu;
     QAction *actionActualizar;
     QAction *actionEliminar;
+    QAction *actionMostrar_Contactos;
     QWidget *centralwidget;
     QFormLayout *formLayout;
     QLabel *label_2;
@@ -69,6 +70,8 @@ public:
         actionActualizar->setObjectName("actionActualizar");
         actionEliminar = new QAction(MainWindow);
         actionEliminar->setObjectName("actionEliminar");
+        actionMostrar_Contactos = new QAction(MainWindow);
+        actionMostrar_Contactos->setObjectName("actionMostrar_Contactos");
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
         formLayout = new QFormLayout(centralwidget);
@@ -198,7 +201,7 @@ public:
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 677, 21));
+        menubar->setGeometry(QRect(0, 0, 677, 22));
         menuOpcion = new QMenu(menubar);
         menuOpcion->setObjectName("menuOpcion");
         MainWindow->setMenuBar(menubar);
@@ -213,6 +216,7 @@ public:
         menubar->addAction(menuOpcion->menuAction());
         menuOpcion->addAction(actionActualizar);
         menuOpcion->addAction(actionEliminar);
+        menuOpcion->addAction(actionMostrar_Contactos);
 
         retranslateUi(MainWindow);
 
@@ -225,6 +229,7 @@ public:
         actionLabelActu->setText(QCoreApplication::translate("MainWindow", "LabelActu", nullptr));
         actionActualizar->setText(QCoreApplication::translate("MainWindow", "Actualizar", nullptr));
         actionEliminar->setText(QCoreApplication::translate("MainWindow", "Eliminar", nullptr));
+        actionMostrar_Contactos->setText(QCoreApplication::translate("MainWindow", " Mostrar Contactos", nullptr));
         label_2->setText(QCoreApplication::translate("MainWindow", "Crear un nuevo contacto", nullptr));
         label->setText(QCoreApplication::translate("MainWindow", "Nombre:", nullptr));
         labelApellido->setText(QCoreApplication::translate("MainWindow", "Apellido:", nullptr));

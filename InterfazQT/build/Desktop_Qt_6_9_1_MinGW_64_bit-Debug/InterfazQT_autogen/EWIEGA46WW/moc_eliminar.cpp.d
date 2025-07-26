@@ -1,5 +1,5 @@
-E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/EWIEGA46WW/moc_eliminar.cpp: E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/eliminar.h \
-  E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h \
+C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/EWIEGA46WW/moc_eliminar.cpp: C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/eliminar.h \
+  C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \

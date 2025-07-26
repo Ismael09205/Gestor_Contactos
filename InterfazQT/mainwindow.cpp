@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
+#include "mostrar_contactos.h"
 #include <Qfile>
 #include <QTextStream>
 #include <QMessageBox>
@@ -105,4 +106,9 @@ void MainWindow::on_btnGuardar_clicked()
 }
 
 
+void MainWindow::on_actionMostrar_Contactos_triggered()
+{
+    mostrar_contactos *ventana = new mostrar_contactos(this);
+    ventana->exec();
+}
 

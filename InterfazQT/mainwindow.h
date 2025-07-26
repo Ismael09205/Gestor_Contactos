@@ -29,6 +29,10 @@ private slots:
 
     void on_btnGuardar_clicked();
 
+    void on_actionMostrar_triggered();
+
+    void on_actionMostrar_Contactos_triggered();
+
 private:
     Ui::MainWindow *ui;
 };

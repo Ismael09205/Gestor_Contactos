@@ -1,13 +1,47 @@
 # ninja log v6
-12	1658	7751992430451487	InterfazQT_autogen/timestamp	5d2e2e3cc18a6f4b
-12	1658	7751992430451487	InterfazQT_autogen/mocs_compilation.cpp	5d2e2e3cc18a6f4b
-12	1658	7751992430451487	E:/Backup/EPN/Segundo semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	5d2e2e3cc18a6f4b
-12	1658	7751992430451487	E:/Backup/EPN/Segundo semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	5d2e2e3cc18a6f4b
-1665	8561	7751992431578382	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	e62abbb5ff72ad88
-1669	8599	7751992431608340	CMakeFiles/InterfazQT.dir/main.cpp.obj	4a1d520efeda2cb5
-1679	8633	7751992431708292	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	34bec751df9a8c79
-1682	9130	7751992431738267	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	4fb413a9a4204f8e
-1675	9189	7751992431678301	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6e4ab0ac9be591ef
-1672	9528	7751992431638332	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	a569f655ed3e3aea
-48	3919	7751992592706175	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	e62abbb5ff72ad88
-3919	4384	7751992631410603	InterfazQT.exe	e8fa01c58d9cb7e1
+31	2401	7751999559005002	InterfazQT_autogen/timestamp	3c236a7000c8ee02
+31	2401	7751999559005002	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	3c236a7000c8ee02
+31	2401	7751999559005002	InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+2429	10446	7751999561551765	CMakeFiles/InterfazQT.dir/main.cpp.obj	e1d413d26cf4f7eb
+31	2401	7751999559005002	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+66	2586	7751999884986935	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	52ca25b3b2d1df1e
+2468	10830	7751999561937088	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	30c2f474e2f53674
+2476	12532	7751999562016908	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	41cde737f9ed5dc6
+2439	12793	7751999561640198	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	5a3bf9077ca359d9
+2458	12976	7751999561833776	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6dfe4e651773ae80
+2587	2929	7751999910201916	InterfazQT.exe	f642c00a4b3996a1
+63	932	7752005072554373	InterfazQT_autogen/timestamp	3c236a7000c8ee02
+63	932	7752005072554373	InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+63	932	7752005072554373	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	3c236a7000c8ee02
+63	932	7752005072554373	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+937	7586	7752005073600884	CMakeFiles/InterfazQT.dir/main.cpp.obj	e1d413d26cf4f7eb
+933	7684	7752005073570950	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	52ca25b3b2d1df1e
+950	8301	7752005073735978	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	30c2f474e2f53674
+946	9069	7752005073694160	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6dfe4e651773ae80
+954	9180	7752005073771430	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	41cde737f9ed5dc6
+960	9718	7752005073831873	CMakeFiles/InterfazQT.dir/mostrar_contactos.cpp.obj	1d8c5c75242e72da
+941	9794	7752005073644244	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	5a3bf9077ca359d9
+9795	10254	7752005162181512	InterfazQT.exe	2066e09e9a9a7155
+56	319	7752006559554552	InterfazQT_autogen/timestamp	3c236a7000c8ee02
+56	319	7752006559554552	InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+56	319	7752006559554552	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	3c236a7000c8ee02
+56	319	7752006559554552	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+328	5723	7752006562284226	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	30c2f474e2f53674
+334	6222	7752006562334502	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	41cde737f9ed5dc6
+323	6656	7752006562225654	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6dfe4e651773ae80
+338	7061	7752006562381279	CMakeFiles/InterfazQT.dir/mostrar_contactos.cpp.obj	1d8c5c75242e72da
+320	7075	7752006562190195	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	5a3bf9077ca359d9
+7075	7510	7752006629745531	InterfazQT.exe	2066e09e9a9a7155
+46	726	7752009512481785	InterfazQT_autogen/timestamp	3c236a7000c8ee02
+46	726	7752009512481785	InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+46	726	7752009512481785	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/timestamp	3c236a7000c8ee02
+46	726	7752009512481785	C:/Users/USER/Documents/GESTOR CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/mocs_compilation.cpp	3c236a7000c8ee02
+727	7131	7752009513472911	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	52ca25b3b2d1df1e
+731	7310	7752009513503023	CMakeFiles/InterfazQT.dir/main.cpp.obj	e1d413d26cf4f7eb
+743	7603	7752009513634659	CMakeFiles/InterfazQT.dir/menu_actualizar.cpp.obj	30c2f474e2f53674
+749	8408	7752009513689955	CMakeFiles/InterfazQT.dir/eliminar.cpp.obj	41cde737f9ed5dc6
+739	8458	7752009513588579	CMakeFiles/InterfazQT.dir/actualizar.cpp.obj	6dfe4e651773ae80
+734	8987	7752009513537585	CMakeFiles/InterfazQT.dir/mainwindow.cpp.obj	5a3bf9077ca359d9
+755	9079	7752009513751212	CMakeFiles/InterfazQT.dir/mostrar_contactos.cpp.obj	1d8c5c75242e72da
+57	1967	7752009830881176	CMakeFiles/InterfazQT.dir/InterfazQT_autogen/mocs_compilation.cpp.obj	52ca25b3b2d1df1e
+1968	2332	7752009849993904	InterfazQT.exe	2066e09e9a9a7155

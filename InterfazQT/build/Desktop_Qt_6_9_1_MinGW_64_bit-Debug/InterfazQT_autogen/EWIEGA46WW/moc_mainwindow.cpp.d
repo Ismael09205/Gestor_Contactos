@@ -1,5 +1,5 @@
-E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/EWIEGA46WW/moc_mainwindow.cpp: E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/mainwindow.h \
-  E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h \
+C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/mainwindow.h \
+  C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/InterfazQT_autogen/moc_predefs.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -372,6 +372,6 @@ E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/build/Deskto
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
-  E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/actualizar.h \
-  E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/eliminar.h \
-  E:/Backup/EPN/Segundo\ semestre/Programacion/Qt_Interfaz/InterfazQT/menu_actualizar.h
+  C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/actualizar.h \
+  C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/eliminar.h \
+  C:/Users/USER/Documents/GESTOR\ CONTACTOS/Gestor_Contactos/InterfazQT/menu_actualizar.h
